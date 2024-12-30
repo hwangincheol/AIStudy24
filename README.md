@@ -3,8 +3,7 @@
 
 https://wikidocs.net/book/14720
 <br>
-
-머신러닝 : https://wikidocs.net/21679
+https://wikidocs.net/21679
 
 - 파이썬 버전 : 3.11.2
 - 파이참을 이용하여 학습
