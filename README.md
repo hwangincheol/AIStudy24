@@ -6,6 +6,7 @@ https://wikidocs.net/book/14720
 https://wikidocs.net/21679
 
 - 파이썬 버전 : 3.11.2
+- Colab을 사용하여 예제 학습
 - 파이참을 이용하여 학습
   
 ## 시나리오
