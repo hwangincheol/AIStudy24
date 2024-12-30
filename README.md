@@ -2,7 +2,7 @@
 파이썬을 이용한 머신러닝, 딥러닝 학습용
 
 https://wikidocs.net/book/14720
-https://wikidocs.net/21679
+머신러닝 : https://wikidocs.net/21679
 
 - 파이썬 버전 : 3.11.2
 - 파이참을 이용하여 학습
