@@ -4,6 +4,8 @@
 https://wikidocs.net/book/14720
 <br>
 https://wikidocs.net/21679
+<br>
+https://wikidocs.net/book/2155
 
 - 파이썬 버전 : 3.11.2
 - Colab을 사용하여 예제 학습
